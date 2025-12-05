@@ -1,6 +1,11 @@
-# shop_aap
+# Online Shop
 
 A new Flutter project.
+
+<img width="414" height="896" alt="Screenshot 2025-12-05 at 23 59 26" src="https://github.com/user-attachments/assets/b7c35b2e-6473-4ebc-a452-d2417e5f82a1" />
+<img width="411" height="888" alt="Screenshot 2025-12-05 at 23 59 53" src="https://github.com/user-attachments/assets/e9df8601-af90-43c2-9436-18db8da5c7ea" />
+<img width="411" height="894" alt="Screenshot 2025-12-06 at 00 00 28" src="https://github.com/user-attachments/assets/9ae912cf-5707-49e1-a0d8-83c0ad994c60" />
+
 
 ## Getting Started
 
